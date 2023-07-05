@@ -521,7 +521,7 @@ video{
   margin-bottom: 0;
 }
 /* .review-custom-content{
-  background: url(/images/roundimg/roundimg1.webp);
+  background: url(images/roundimg/roundimg1.webp);
 } */
 .people_say{
   text-align: center;
@@ -533,7 +533,7 @@ video{
   
 }
 .people_container{
-  background: url(/images/roundimg/sliced-circle-elipse-bg.svg) no-repeat scroll left 10px top 5rem;
+  background: url(images/roundimg/sliced-circle-elipse-bg.svg) no-repeat scroll left 10px top 5rem;
   background-size: 140px auto;
 }
 .review_container{
@@ -559,7 +559,7 @@ video{
     text-align: center;
 }
 .first{
-  background: url(/images/roundimg/roundimg1.webp);
+  background: url(images/roundimg/roundimg1.webp);
     padding: 2rem 0;
     background-repeat: no-repeat;
     background-size: contain;
@@ -568,7 +568,7 @@ video{
 
 }
 .second{
-  background: url(/images/roundimg/roundimg2.webp);
+  background: url(images/roundimg/roundimg2.webp);
   padding: 2rem 0;
     background-repeat: no-repeat;
     background-size: contain;
@@ -577,7 +577,7 @@ video{
 
 }
 .third{
-    background: url(/images/roundimg/roundimg3.webp);
+    background: url(images/roundimg/roundimg3.webp);
     padding: 2rem 0;
     background-repeat: no-repeat;
     background-size: contain;
